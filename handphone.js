@@ -2,7 +2,7 @@ Swal.fire({
   icon: 'info',
   title: 'In Development',
   color: 'white',
-  footer: '<a href="https://www.tiktok.com/@eki_zulfar" style="color:white; text-decoration:none; margin-right: 5%;">Tiktok: ekizr_ </a> <a href="https://www.instagram.com/ekizr_/" style="color:white; text-decoration:none;">IG: ekizr_</a>'
+  footer: '<a href="https://www.tiktok.com/@manishankxr" style="color:white; text-decoration:none; margin-right: 5%;">Twitter: manishankxr </a> <a href="https://www.instagram.com/manishaxkar/" style="color:white; text-decoration:none;">IG: manishankxr</a>'
 })
 
 function tampilkanJam() {

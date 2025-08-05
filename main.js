@@ -628,7 +628,7 @@ function open_status() {
   isi_status.style.backgroundImage = "url(img/kucing.jpeg)";
   isi_status.style.display = "block";
   pesanStatus.innerHTML = "Go to sleep,bro";
-  document.getElementById("nama-dalam-status").placeholder = "eki";
+  document.getElementById("nama-dalam-status").placeholder = "";
   setTimeout(function () {
     isi_status.style.display = "none";
   }, 5000);
