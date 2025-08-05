@@ -627,7 +627,7 @@ function open_status() {
   dalam_status.src = "img/e.jpg";
   isi_status.style.backgroundImage = "url(img/kucing.jpeg)";
   isi_status.style.display = "block";
-  pesanStatus.innerHTML = "Turu masbro";
+  pesanStatus.innerHTML = "Go to sleep,bro";
   document.getElementById("nama-dalam-status").placeholder = "eki";
   setTimeout(function () {
     isi_status.style.display = "none";
@@ -639,8 +639,8 @@ function open_status1() {
   bg_status.style.display = "none";
   dalam_status.src = "img/z.jpg";
   isi_status.style.backgroundImage = "url(img/kucing.jpg)";
-  pesanStatus.innerHTML = "Malas masbro";
-  document.getElementById("nama-dalam-status").placeholder = "zulfar";
+  pesanStatus.innerHTML = "Hi bro";
+  document.getElementById("nama-dalam-status").placeholder = "zack";
   isi_status.style.display = "block";
   setTimeout(function () {
     isi_status.style.display = "none";

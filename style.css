@@ -585,7 +585,7 @@ input::placeholder {
   border-radius: 3pt;
 }
 
-.Wclone,.fitur,.fitur-list{
+.Wclone,.feature,.feature-list{
   display: none;
 }
 
@@ -729,7 +729,7 @@ input::placeholder {
     position: absolute;
   }
 
-  .fitur,.fitur-list {
+  .feature,.feature-list {
    color: var(--white);
    display: block;
    position: absolute;
@@ -742,7 +742,7 @@ input::placeholder {
    0 0 3px blue;
   }
 
-  .fitur {
+  .feature{
     top: 25%;
   }
   

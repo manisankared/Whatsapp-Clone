@@ -12,29 +12,30 @@ function tampilkanJam() {
   var detik = date.getSeconds(); 
   var ampm = jam >= 12 ? "PM" : "AM"; 
   var months = [
-    "Januari",
-    "Februari",
-    "Maret",
-    "April",
-    "Mei",
-    "Juni",
-    "Juli",
-    "Agustus",
-    "September",
-    "Oktober",
-    "November",
-    "Desember",
-  ];
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December"
+]
 
-  var myDays = [
-    "Minggu",
-    "Senin",
-    "Sel",
-    "Rabu",
-    "Kamis",
-    "Jum&#39;at",
-    "Sabtu",
-  ];
+var myDays = [
+  "Minggu",
+  "Senin",
+  "Selasa",
+  "Rabu",
+  "Kamis",
+  "Jumat",
+  "Sabtu"
+];
+
 
   var day = date.getDate();
   var month = date.getMonth();
