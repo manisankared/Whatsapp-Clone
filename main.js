@@ -638,7 +638,7 @@ function open_status1() {
   bg_status.src = "";
   bg_status.style.display = "none";
   dalam_status.src = "img/z.jpg";
-  isi_status.style.backgroundImage = "url(img/kucing.jpg)";
+  isi_status.style.backgroundImage = "url(img/kucing.jpeg)";
   pesanStatus.innerHTML = "Hi bro";
   document.getElementById("nama-dalam-status").placeholder = "zack";
   isi_status.style.display = "block";
